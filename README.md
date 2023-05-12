@@ -1,2 +1,8 @@
-# docs
-the documents, different versions of plans, and the final summary of robogame 2023
+# `doc` repository 综述
+
+- 这个仓库用于存放我们在比赛中所用到的文件，包括但不限于
+  - 计划书
+  - 一审，二审，三审计划书
+  - 最终方案
+
+此readme文件将作为目录树。
